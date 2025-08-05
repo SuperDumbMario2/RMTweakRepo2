@@ -1,0 +1,60 @@
+{
+  "Name": "Beta Tweaks",
+  "Scripts": [
+    {
+      "Name": "Remove \"Here we go\"",
+      "Script": "ACCC: 00 00 00 00\r\nACE4: 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "it's just like E3 1996 Commercial (SM64 Japanese tweaks)\r\nCredit by DustinWijaya2006",
+      "References": [],
+      "ID": "B9B06527F3A452930F16E34DC9CD264E",
+      "AllowRevert": false
+    },
+    {
+      "Name": "Mario can standing for 1 time",
+      "Script": "1BF57: 01",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "9E4DB78A5265E081B963050B1996A9D4",
+      "AllowRevert": false
+    },
+    {
+      "Name": "YAHAA",
+      "Script": "C1EC: 3C 01 24 14 34 21 80 81 3C 04 24 14 34 84 80 81\r\n1453C: 3C 05 24 14\r\n14E1C: 3C 05 24 14\r\n16354: 3C 05 24 14\r\n26EB0: 3C 06 24 14\r\n299B4: 3C 05 24 14\r\n2A0FC: 3C 01 24 14 34 21 80 81 3C 04 24 14 34 84 80 81\r\n2A3A0: 3C 06 24 14\r\n2A8B8: 3C 06 24 14",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "3FA3613BB2F4DD6D90E1B367378A36F6",
+      "AllowRevert": false
+    },
+    {
+      "Name": "Beta Door Close Sound",
+      "Script": "EB290: 30 07",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": "D21D3A2F6BEFA9248C1C56AD012C6848",
+      "AllowRevert": false
+    },
+    {
+      "Name": "Beta Footstep sound",
+      "Script": "",
+      "Type": "TweakScript",
+      "Description": "Tweaks from duskewl.",
+      "References": [],
+      "ID": "01FF3CD834B6ED035F40601BFEA2DC97",
+      "AllowRevert": false
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.11.10.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "",
+  "EmbeddedFiles": {
+    "CompressedFiles": {
+      "anim_97.inc.c": "hVZLaxw5ED5nfsUcN+BDS60nSw5SlQQ5xIQ8YGFZjHF8MGwcyIxDIOx/3x5VqadVYxyDqSmp+tNXT+lwvD0+3O3vvj0ejvvD8fvT3XGfHh++LqvfHve3y6+b6P/+Z/9m/2v3Sl3tXk2bf3u12y9/6frtu7fXWP66uf787n368OnjH/zhzcPjl4e7+8NrMuyrP27/fbo/jGtsSYsL+H9/7na7w5bdk3LSuhObfk7TpK72TU4sLcu+blg6sZ7OOiNlYQFCR6EXcUJdkZiDmnlHsx5GjioJvZ51QtJmtNBx5KCL0Ouoz9PKiZFmEZfZCj2OJ84oORk9Whg/IhgYdTsJ3aycmIsNI2srvLRJIOSzTki2jhZuHjk6L3QYda9knLwbEb3g4EXkg5acwiwsBIcgqiHgqEct6ykKhCi8SEro7qwTUsqjRRZdk63QRYXmixoHUaEg6gd6nDg+OMs4oahAFAgo4lJE/ZUlKm1uDGPjsBkbNHiGqcF+J/YvMasAY/Z9j0+TtdZIsiCxX37ZrcW8mIh5NEjDOTLathNNPFXmCclUCC99ueFQt3LdD6FHNLvGSTnXIqXS1JC1NvYlpBGRvHveQp5dwTWvaqgtVyVRTotFrmEsqteJYoRWF6AowjUrIOkze9NkLa7ZocbMSNq0HZxMQwLEJtHkFlFU1PsZY7PLnqbsmbMLHCelKfsqzs/FZdLEaXIUv6XF7XYfkinMydb2JZbQvMx1qnT2FJ/NlfHDeo2evaNfi0x5s7NEEoOQNMe7Psb1hNQju4xbsvAcWUOzUAVsNa5zl46qJJKX2lfmBFDbCuSsyTs6G1Qqo3dA9aVnyrWuGy/HvjM49DZnYo2sR6Cckj0ieZf96WY4IWWj4dlKzHVYv5DFuJFTtab5vUpTcKv/rg/P3ZKrpVp1pvmNECfqBuq7mmlyVXSUQzC0z5EvPvItVIC8KBDal9nGxikB3bXR01skcI49Yho5qvU+6/c93dqXHTzzF4ERct7uL2OK55MGemvMSN1ismqIJqWxtrWlKjDEsUKhjMBa4+vZ/b2TPJ2Z+GyoXGckkaPgLXWXqTx9c/hNjpJ/cRpvKlPrYQb0XF5Keh91XWXqcBU8MFLhaaF42hp6QSllDEmKl5pdq0RlGcnSyUuOZ0JKjt5Foah2hrd013hv66UXL1VmX1HFtCxrTW+yWSPdSnwznKuDpwmyjp3TcgFyHWm2pLgtss8fZL1lHSK23EKg2QBthrapYum+A79Ytuv7fw=="
+    }
+  },
+  "ID": "8255616E4180993D1C3FBB1910050BEE"
+}
